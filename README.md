@@ -8,6 +8,7 @@ This repo contains 2 apps that implement q-learning algorithms. They utilize Ope
 * numpy
 * tensorflow
 * Python 3
+* OpenAI Gym
 
 ## References
 https://github.com/MadcowD/tensorgym
